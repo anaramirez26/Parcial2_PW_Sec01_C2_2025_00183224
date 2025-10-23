@@ -1,1 +1,4 @@
 # Parcial2_PW_Sec01_C2_2025_00183224
+NOMBRE: Ana Belen Ramirez Flores
+SECCION 01
+CARNE: 00183224
